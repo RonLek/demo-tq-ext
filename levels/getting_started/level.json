@@ -12,5 +12,5 @@
   "flavorTextOverrides": {
     "bookshelf": "There's nothing like a good book."
   },
-  "objectives": ["getting_started_objective_1"]
+  "objectives": ["getting_started_objective_1", "getting_started_objective_2"]
 }
